@@ -78,7 +78,7 @@ const Header = ({ siteTitle }) => (
       <p>
         <HomeLink to="/">{siteTitle}</HomeLink>
         <NavLink to="https://blog.zishanahmad.dev/" target="_blank">Blog</NavLink>
-        <NavLink to="https://zishanahmad.dev/images/resume.pdf">Resume</NavLink>
+        <NavLink to="https://github.com/zishan0215/zishan-landing/blob/master/src/images/resume.pdf" target="_blank">Resume</NavLink>
         <GitHubLink href="https://github.com/zishan0215" target="_blank">
           GitHub
         </GitHubLink>
